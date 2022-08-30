@@ -1,0 +1,148 @@
+﻿<html>
+   <head>
+       <link href="style.css" rel="stylesheet">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+       <title>Gabrielle Henning</title>
+   </head>
+
+
+   <body>
+       <header id="header">
+  
+           <h1><b>IT Student<br> & CX Specialist</b></h1>
+           <hr>
+           Challenge-driven. Meticulous professional who undertakes complex
+           assignments meets tight deadlines and delivers superior performance.
+           Possess experience in diverse fields, being able to provide synergic
+           ideas and insights. Have remarkable interpersonal and communication
+           skills and often take ownership of issues, delivering results
+           proactively.
+
+
+           <hr>
+       </header>
+       <main>
+           <article id="mainRight">
+               <section>
+                   <h2><b>ABOUT ME</b></h2>
+                   Informations Systems and Programming student, I am focusing at the moment in learning Java, but I am also passionate about AI, blockchain, machine learning, and data science.
+                   I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership.
+                   I have been working in a FinTech and also in a global crypto exchange, with a huge knowledge in the financial world.
+                   Organized, proactive, curious and committed.
+                 
+                   Looking for my first opportunity in IT world, as internship or junior role, to contribute with the team and learn as much as I can.
+               </section>
+
+
+               <section>
+                   <h2><b>PORTFOLIO</b></h2>
+                  
+                   Coming soon!
+               </section>
+
+
+               <section>
+                   <h2><b>CONTACT</b></h2>
+                  
+                   <p>
+                       <i class="fab fa-github" aria-hidden="true"></i>
+                       <a href="github.com/gabriellehenning">GitHub</a>
+                   </p>
+                   <p>
+                       <i class="fab fa-linkedin" aria-hidden="true"></i>
+                       <a href="linkedin.com/in/gabriellehenning">LinkedIn</a>
+                   </p>
+                                      
+                                       <p>
+                       <i class="fa fa-envelope" aria-hidden="true"></i>
+                       <a href="mailto:henning.gabrielle@gmail.com">Email</a>
+                   </p>
+               </section>
+               </article>
+               <artcile id="mainLeft">
+              
+               <section>
+                   <h2><b>WORK EXPERIENCE</b></h2>
+
+
+                      <h2><b>Customer Support Representative</b></h2>
+                   <p>
+                           <h2>Binance | October 2021 - July 2022</h2></p>
+                   </p>
+
+
+                   <p>
+                       Responsible for assisting customers via chat, dealing with delicate subjects and challenging problems.
+                       Being able to deal with many customers at the same time and also different issues, and multi-tasking, being able to check and reply quickly and efficiently to questions, and identifying potential issues, anticipating customers needs to avoid future contacts.
+                       Also following KPI metrics designed to put in place quality, efficiency, professionalism and quality, to deliver the best experience even when the customers are facing the most difficult and stressful situations. Financial, tech and account and KYC issues.
+                   </p>
+                   <ul>
+                           <li>First contact with crypto world and trading.</li>
+                           <li>First time working with global users in a full international team.</li>
+                          
+                   </ul>
+
+
+
+
+                  <p> <h2><b>Customer Experience Analyst II</b></h2></p>
+                   <p>
+                       <h2>Nubank | November 2017 - October 2021 </h2>
+                   </p>
+                   <p>
+                           Working at one of the most renowned and prestigious Fintech in Brazil, I worked for over a year with customers directly, helping them with the most varied questions related to the product. I was part of the bills team, and after that of the chargeback team, also being responsible for analysing and improving the process of refund, to guarantee the veracity of the process and documents, both by the establishment and by the client. Doing my best to understand and correspond to different requests and realities, always looking to deliver the best experience and leave them satisfied by email, phone calls and also emails. Currently, I am working in the squad responsible for most security processes, dealing and analysing daily reports of theft, account invasions, and others, with the goal of avoiding these occurrences and making improvements in order to avoid similar cases, also working side by side with Fraud Analysts, I can learn more every day about all fronts that involve the safety of customers, products and the company. I am part of the Operations Team, with daily tasks such as planning the tasks for everybody else, making sure that everybody is scheduled to complete training and perform all the jobs needed, making sure to distribute all tasks in order to absorb the demand, adapting the reality and deliveries of each collaborator with the job that needs to be done. I am also in direct contact with the process and quality sector, being always proactive with suggestions to improve, facilitate and increase the team and squad performance, keeping records that aim to measure the results, and being ready and looking forward to opportunities to guarantee efficiency and improve the customer experience.
+                   </p>
+                   <ul>
+                           <li>Learned how to use tools as Jupyter, Jira, Looker.</li>
+                           <li>Got promoted and started working in Security Squads' Operations.</li>
+                           <li>First time developing projects and casesa, by myself and as a team.</li>
+                   </ul>
+                   <h2><b>Shift Manager</b></h2>
+                   <p>
+                       <h2>McDonald's UK | December 2014 - March 2017</h2>
+                   </p>
+                   <p>
+                           First started as a crew member and was invited to be a Shift Manager less than 6 months after. As a crew member, I made sure to learn everything that I could to make sure that as shift manager I could support others in the best way possible. As a shift manager, the responsibilities are many. Making sure that the crew was motivated, coached and trained them with the right procedures to keep the standards. Helping when needed, and observing everything, all the stations of the store, to give the support needed to the customer or to the crew as soon as needed. Also, as the mainly closing manager, inventory and ordering, dealing with the money, making deposits, and sending figures make part of my main tasks, such as providing the customer with the best experience that I could.
+                      
+                   </p>
+                   <ul>
+                           <li>First contact with customer experience, not only customer support.</li>
+                           <li>Was a trainer before being a manager.</li>
+                           <li>Also performed administrative tasks.</li>
+                   </ul>
+                   </section>
+                   <section>
+                       <h2><b>SKILLS</b></h2>
+                       <h2>Hard Skills</h2>
+                      
+                           Ms Office • Google Drive • Windows  • Linux • Zendesk • Backoffice • Haodesk • Looker • Jira • Grafana • Java • JavaScript • Database • CSS • Python • HTML
+  
+                       <h2>Soft Skills</h2>
+  
+                           Project Management • Interpersonal Skills • Analytical Skills • Communication Skills • Teamwork • Problem Solving • Leadership • Decision Making
+                      
+                   </section>
+                      
+                    
+              
+               <section>
+                   <h2><b>EDUCATION</b></h2>
+
+
+                   <li>Data Analytics • Google | CIEE - December 2022</li>
+                   <li>Java - Bootcamp • Santander Code Girls | DIO - August 2022</li>  
+                   <li>Information Systems • Universidade Nove de Julho - July 2024 </li>
+                   <li>Basic Advanced & Shift Management Course • McDonald’s University - 2016</li>
+                   <li>Ensino Médio (Equivalent to +5 GCSE A*-C) • ETEC Getúlio Vargas - December 2010</li>
+                      
+                       Spanish • Intermediary | English • Fluent | Portuguese • Fluent
+                      
+               </section>           
+          
+             
+
+
+           </article>
+       </main>
+   </body>
+</html>
